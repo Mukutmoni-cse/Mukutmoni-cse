@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mukutmoni-cse
+- 👋 Hi, I’m Ayan Mukutmoni
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
